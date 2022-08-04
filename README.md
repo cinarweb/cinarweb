@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 💻 We are working on web design & software<br>🤩 We design amazing websites<br>⚡️ We are a fun and dynamic team<br>🚀 We produce solutions to problems quickly<br>✌️ We also have services such as CMS development, mobile application and troubleshooting
 
 
